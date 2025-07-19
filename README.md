@@ -30,4 +30,4 @@ PiBerry v12 is a culmination of passion, learning, and iteration — a celebrati
 
 We hope you enjoy building and using it as much as we enjoyed bringing it to life.
 
-Get yours or find out more about the latest builds at CarbonComputers.us
+Get yours or find out more about the latest builds at [Carbon Computers](https://carboncomputers.us)  
